@@ -4,7 +4,7 @@ public class swea2047 {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		
-		String input = sc.next(); //toUpperCase() ¼Ò¹®ÀÚ¸¦ ´ëºĞÀÚ·Î ¹Ù²Ù±â, toLowerCase() ´ë¹®ÀÚ¸¦ ¼Ò¹®ÀÚ·Î ¹Ù²Ù±â.
+		String input = sc.next(); //toUpperCase() ì†Œë¬¸ìë¥¼ ëŒ€ë¬¸ìë¡œ ë°”ê¾¸ê¸°, toLowerCase() ëŒ€ë¬¸ìë¥¼ ì†Œë¬¸ìë¡œ ë°”ê¾¸ê¸°.
 	
 		System.out.println(input.toUpperCase()); 
 	}
