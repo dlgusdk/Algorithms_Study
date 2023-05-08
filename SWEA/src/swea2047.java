@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class swea2047 {
 	public static void main(String args[]) {
