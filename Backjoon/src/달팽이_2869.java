@@ -16,7 +16,7 @@ public class 달팽이_2869 {
 		
 	}
 
-} -메모리 조건에 걸려서 아웃 */
+} -Scanner 1(메모리: 17728KB 시간: 204ms) */
 
 
 /*import java.util.Scanner;
@@ -38,7 +38,7 @@ public class 달팽이_2869 {
 		System.out.println(day);
 		
 	}
-} 위와 똑같은 이유*/
+} -Scanner 2(메모리: 17652KB 시간: 212ms) */
 
 import java.io.BufferedReader;   
 import java.io.IOException;    
@@ -60,5 +60,5 @@ public class 달팽이_2869 {
 		   
 		System.out.println(day);	
 	}
-}
+} //BufferedReader (메모리: 14176KB 시간: 128ms)
   
