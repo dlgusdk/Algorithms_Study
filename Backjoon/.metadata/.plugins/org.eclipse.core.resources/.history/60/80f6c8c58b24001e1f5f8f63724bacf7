@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class 달팽이_2869 {
+	public static void main(String[] args) {
+		System.out.println("V, A, B");
+		Scanner sc = new Scanner(System.in);
+		int A= sc.nextInt();
+		int B= sc.nextInt(); 
+		int V= sc.nextInt();
+		
+		int day = (V - B) / (A - B);  //전체높이에 올라가면 떨어지지않으니 B를 뺀 값이 올라가야할 전체 높이가 됨./ 하루에 올라갈 수 있는 높이
+        		
+		if((V - B) / (A - B) != 0)) {  // 만약 day(정상까지 올라가는데 필요한 날)의 값
+			day++;  
+		}
+		
+		   
+		System.out.println(day);
+		
+	}
+
+}
