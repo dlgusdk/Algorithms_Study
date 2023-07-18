@@ -1,3 +1,0 @@
-INDEX VERSION 1.134+C:\Users\hyuj9\Desktop\java\codetree\Backjoon\.metadata\.plugins\org.eclipse.jdt.core
-222100967.index
-1865797976.index
